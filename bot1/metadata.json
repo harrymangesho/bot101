@@ -1,0 +1,5 @@
+{
+  "name": "bot1",
+  "description": "An advanced web application that leverages the Gemini API to perform technical analysis on uploaded price chart images. The app provides structured, actionable trading insights in JSON format.",
+  "requestFramePermissions": []
+}
